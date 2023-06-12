@@ -1,0 +1,5 @@
+mqtt:
+  username: admin
+  password: instar
+  host: localhost
+  port: 1883
